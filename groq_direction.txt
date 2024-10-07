@@ -1,0 +1,1 @@
+pip install flask groq flask-caching flask-limiter python-docx
